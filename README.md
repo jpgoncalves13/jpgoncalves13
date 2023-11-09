@@ -2,7 +2,7 @@
 
 ## About me
 - I'm currently studying Software Engineering at University of Minho
-- I'm from Ponte de Lima, Portugal
+- I'm from the beautiful town of Ponte de Lima, Portugal
 
 <div id="badges">
   <a href = "https://www.linkedin.com/in/jo%C3%A3o-pedro-gon%C3%A7alves-796b65220/">
