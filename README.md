@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## About me
-- I'm currently studying Software Engineering at University of Minho
+- I'm currently studying Software Engineering @ Universidade do Minho
 - I'm from the beautiful town of Ponte de Lima, Portugal
 
 <div id="badges">
