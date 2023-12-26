@@ -28,7 +28,4 @@
 ![Docker](https://img.shields.io/badge/docker-ff0000?style=for-the-badge&logo=docker&logoColor=white)
 
 
-![](https://komarev.com/ghpvc/?username=jpgoncalves13&style=for-the-badge)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpgoncalves13&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
