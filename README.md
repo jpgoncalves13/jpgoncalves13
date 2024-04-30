@@ -7,7 +7,9 @@
 <div id="badges">
   <a href = "https://www.linkedin.com/in/jo%C3%A3o-pedro-gon%C3%A7alves-796b65220/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://discord.com/channels/@jpgoncalves13/
+  </a>
+  <a href = "https://discord.com/channels/@jpgoncalves13/">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
 
